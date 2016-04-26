@@ -32,6 +32,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "APM.Client", "http://localh
 	EndProjectSection
 EndProject
 Global
+
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
